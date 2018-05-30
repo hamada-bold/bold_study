@@ -1,2 +1,2 @@
 # bold_study
-BOLDCREATIVEの練習用リポジトリです。
+BOLDCREATIVEの練習用リポジトリです。 5/29
