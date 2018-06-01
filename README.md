@@ -1,3 +1,4 @@
 # bold_study
 BOLDCREATIVEの練習用リポジトリです。
-5/29
+5/31
+
